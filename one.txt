@@ -2,4 +2,7 @@ this is the first file
 some modified text
 another text
 
+'''this is fast forward merging'''
+the changes made in main branch 
+
 changes in new branch 
